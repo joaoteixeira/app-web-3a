@@ -1,0 +1,20 @@
+﻿.homer-fix {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    width: 120px;
+    opacity: 0.6;
+}
+
+.titulo {
+    border: 1px solid black;
+}
+
+.img-cover {
+    object-fit:cover;
+    object-position: bottom;
+}
+
+.sidebar[b-n0w5dl482e] {
+    background-color: #000 !important;
+}
